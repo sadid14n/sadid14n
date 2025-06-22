@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadid Alam</h1>
+<h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">Web & Mobile Developer | MERN Stack Expert | Java Coder | React Native Explorer</h3>
 
 - 🔭 I’m currently learning [DSA with JAVA](https://github.com/sadid14n/java-dsa-daily)
